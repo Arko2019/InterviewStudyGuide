@@ -1,0 +1,8 @@
+Stream= Stream flow of data
+Stream pipeline
+             |
+Stream source ->Intermediate Operations (Business logic) -> Terminal Operation
+
+Streams does not store data it operates on stored data it act as a pipeline to pass the data         
+Element of stream visited once during life time
+    
