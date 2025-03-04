@@ -1,9 +1,8 @@
-package com.java.java8feature;
+package interview;
 
 import java.util.Optional;
 
 public class OptionalAllInOne {
-
 	public static void main(String[] args) {
 		Optional<String>str1=Optional.of("Hello");
 		System.out.println("Optional Of:"+str1.get());
@@ -24,5 +23,4 @@ public class OptionalAllInOne {
 		
 		// Pending few more methods
 	}
-
 }
